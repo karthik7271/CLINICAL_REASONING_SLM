@@ -26,7 +26,51 @@ Fine-tuned T5 Small Language Model for Medical Reasoning & Fast Inference
 
 ---
 
-## 🚀 Quick Start
 
-### 1. Install Requirements
+---
 
+## 🩺 Use Cases
+
+- Clinical decision support & diagnostic suggestions
+- Medical note summarization & coding
+- Literature analysis & research data extraction
+- Integration with EHRs, telemedicine, and education tools
+
+---
+
+## 🧑‍⚕️ Training
+
+- **Data:** Clinical narratives, Q&A, documentation, knowledge bases
+- **Evaluation:** Accuracy, knowledge retention, inference speed
+
+---
+
+## 🤝 Contributing
+
+1. Fork and branch
+2. Implement & document
+3. Add tests & ensure all pass
+4. Submit a pull request
+
+---
+
+
+---
+
+## ⚖️ License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-PyTorch-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Powered%20by-Transformers-764abc?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Healthcare%20AI-Ready-blue?style=flat-square"/>
+</p>
+
+---
+
+<p align="center">
+  <b>⚠️ Disclaimer: For research and educational use only. Not a substitute for professional medical judgment. ⚠️</b>
+</p>
