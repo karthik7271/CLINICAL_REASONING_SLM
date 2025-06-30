@@ -1,40 +1,32 @@
-# CLINICAL_REASONING_SLM
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Clinical%20Reasoning-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Model-T5%20Base%20SLM-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain-Healthcare-brightgreen?style=for-the-badge" />
+</p>
 
-## Overview
-
-**CLINICAL_REASONING_SLM** is a specialized project focused on fine-tuning a T5 Base Small Language Model (SLM) for clinical reasoning tasks involving medical descriptions. This repository combines the power of transformer-based natural language processing with domain-specific clinical knowledge to create an efficient, fast-inference model optimized for healthcare applications.
-
-The project addresses the critical need for lightweight yet accurate AI models in clinical settings, where computational resources may be limited but precision is paramount. By leveraging the T5 (Text-to-Text Transfer Transformer) architecture and adapting it specifically for clinical reasoning, this implementation bridges the gap between general-purpose language models and specialized medical AI applications.
-
----
-
-## Key Features
-
-- **Clinical Domain Specialization:** Fine-tuned for medical text, diagnostic reasoning, and healthcare documentation.
-- **Optimized for Fast Inference:** Lightweight and efficient for real-time or resource-constrained environments.
-- **Advanced Reasoning Capabilities:** Emulates clinical reasoning patterns for decision support and inference.
-- **T5-Based Architecture:** Built on the robust T5 text-to-text transformer framework.
+<h1 align="center">🩺 CLINICAL_REASONING_SLM 🧠</h1>
+<p align="center"><b>
+Fine-tuned T5 Small Language Model for Medical Reasoning & Fast Inference
+</b></p>
 
 ---
 
-## Technical Architecture
+## 🌟 Overview
 
-- **Model Foundation:** Based on T5, treating all tasks as text generation.
-- **Clinical Adaptation:** Fine-tuned on medical data for terminology, reasoning, and documentation.
-- **Inference Optimization:** Efficient tokenization, streamlined architecture, and batch processing support.
+**CLINICAL_REASONING_SLM** is a lightweight, fast, and accurate T5-based model fine-tuned for clinical reasoning and medical text tasks. It brings advanced transformer AI to healthcare, making clinical NLP both accessible and practical.
 
 ---
 
-## Use Cases
+## ✨ Features
 
-- **Clinical Decision Support:** Diagnostic suggestions, summarization, and Q&A for clinicians.
-- **Healthcare Documentation:** Automated note analysis, summarization, and coding assistance.
-- **Medical Research:** Literature analysis, case study processing, and data extraction.
-- **Deployment:** Integration with EHRs, telemedicine, medical education, and workflow tools.
+- **Clinical Specialization:** Understands medical text, supports diagnostic reasoning.
+- **Fast Inference:** Optimized for real-time and resource-limited settings.
+- **T5 Transformer:** Unified text-to-text approach for multiple clinical NLP tasks.
 
 ---
 
-## Getting Started
+## 🚀 Quick Start
 
-### Prerequisites
+### 1. Install Requirements
 
